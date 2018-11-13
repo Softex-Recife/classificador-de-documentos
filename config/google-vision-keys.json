@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vivid-course-218818",
+  "private_key_id": "01108716e4f7552dd99f782f0be9b1d7e7ca2246",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDVckLcLiQlRPQw\ns7qXlfBy3BtHHvhvL0wo3y/k0iFc2DJVMbC7Hv9pBceM5+ztE+4LSIPWEWU1CPUw\nW5M9dFaH8DH4bw5pxGxpta8NPdytZaclk+GfSWOK2zqvfj1+DIo7ZQOBGLmW12hX\nz/42sbifYVpzEum0jqP213iMccrjn3TjO11udpzWNDo1hwhw1nd3LqDjopiT0xZl\nzo7JgQdYDTqHD688yarUy9lphoxtHOx6cH5L8FP4cCC7SBYt+riGcr03hb8cmmvU\neJZfB0LOgO6+kMFk4678Hvqic0Wd6SXnyJAlrz+I17bSjDZpHW456s+WjUjxzbDF\nClfslhEVAgMBAAECggEAD+Pa+uHGJ+53dbW3nH0u1++Ev1lx+h2ttYrnWZ6pbwGa\n/lEonJxCPEBlepsHKMoiSf2Vb6cUCgFMoZORBVLxyy/JmeVd+mfuAJD5mHUvG8s0\nyOfMCkFFfhWei5M3bY4Y712F3S3o88QTB5swzBkUdcG4C6zlhZ8rMTSZdpkqbHdf\nFUDdVAzFd+JzQD1zlzd9hmwFXhuYMpXDVMYk6Dsypgw1p6P0qiOZMPUQGc3l37Lr\n89ny/g4787KZszM+UmO8lywq/OfjYGMX2q8Pi2G05cDPbuhZaH1SFbsYTl+Wly+I\nInpZTYtipwve28OC672LKy+94Z5XD0n4TnmOxAQfgQKBgQDzhj0XOgSyigFgCho9\nOGrpy4ZxMhdFN5agUc1JV1lWmy3+wSJaJ3bresxmfc64uU24jeirOVZlcFVy41ou\nE17/UEdW3VZ7sCLxMiVsT7Cn3VprBBDKR+kvjPrZ2jUntcPBzknUSfdKnt/Zb2+P\nEjxA7bG4FZxWZ9edRG+pcd6RgQKBgQDgYY58Tn3OwEkXuahvhOIUp+qAtdF2f1qv\nMwMVyqZp0K7IoBphQYHZSn82QRDojwrktITXhPDC9nS92Udu/qJNBHmZUtu8tDV1\nUewiiatSbN6nqxFB6goSw8MzHjQxaVpfuxwk6h3EA83v3gXFaekrnYfwRG9uhTPM\nbMye+qnhlQKBgA650FnmNUCCneCr27hWAAkROJkBuWyDFwWszKghsxJMofRkw2oG\nNue4bkHIW8bJ1cxSMH6iIfpSV6hx3RMqMrVnqlizW7ZxCTvil2a8TudnuD7+aPGC\ndbRdZxHjYxF6qVK/4bEHo/+MKechGPLi3Gfkt7l0/RYwg1ZMPCBX9WiBAoGAK4Mf\no4GBKiflxMEPJdkqEoFhm2Ym4Yje6BzHW2F6FgkO6/8IPpX6fU3SD45cngynOyS6\noiS4n8Y1a1+IV8DvbmoQvqfvzs9Pkpm5ZhU2cPyFzRQCe7rMC0mFQBN6YZ6hlPDv\nC0WPUiS+ueZfTiI0wm2BIBnVViRkoB71K1tGuGUCgYA5OEbevB/kKSfHYQ9uIu/R\nsfHq7ObHp6xmgjTY1BEZv2RuUOkdrfLN4Z61qoKiK2I0+26I4MDzY9DTSQYPmW8o\npqu/XQs0kW9efB6cnmpvoy1SDYHgotbTFBFs1QsOIHRwqo5DhmzWWDrpOdS/sz/9\n6yZ4aZ3MUCvrrZYMKb/x2g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "visao-computacional-teste@vivid-course-218818.iam.gserviceaccount.com",
+  "client_id": "114895857878707259410",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visao-computacional-teste%40vivid-course-218818.iam.gserviceaccount.com"
+}
