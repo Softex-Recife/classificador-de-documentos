@@ -1,0 +1,1716 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/07s6nbt",
+      "description": "text",
+      "score": 0.85719293,
+      "topicality": 0.85719293
+    },
+    {
+      "mid": "/m/01jwgf",
+      "description": "product",
+      "score": 0.85695356,
+      "topicality": 0.85695356
+    },
+    {
+      "mid": "/m/02n3pb",
+      "description": "product",
+      "score": 0.83140075,
+      "topicality": 0.83140075
+    },
+    {
+      "mid": "/m/0bs7_0t",
+      "description": "electronic device",
+      "score": 0.82516,
+      "topicality": 0.82516
+    },
+    {
+      "mid": "/m/07c1v",
+      "description": "technology",
+      "score": 0.81282383,
+      "topicality": 0.81282383
+    },
+    {
+      "mid": "/m/02mrp",
+      "description": "electronics",
+      "score": 0.74709094,
+      "topicality": 0.74709094
+    },
+    {
+      "mid": "/m/0541p",
+      "description": "multimedia",
+      "score": 0.7441921,
+      "topicality": 0.7441921
+    },
+    {
+      "mid": "/m/01lhf",
+      "description": "communication",
+      "score": 0.6939526,
+      "topicality": 0.6939526
+    },
+    {
+      "mid": "/m/0glmwd6",
+      "description": "communication device",
+      "score": 0.6021459,
+      "topicality": 0.6021459
+    },
+    {
+      "mid": "/m/02mf1n",
+      "description": "gadget",
+      "score": 0.5904658,
+      "topicality": 0.5904658
+    },
+    {
+      "mid": "/m/03qh03g",
+      "description": "media",
+      "score": 0.55589825,
+      "topicality": 0.55589825
+    },
+    {
+      "mid": "/m/03gq5hm",
+      "description": "font",
+      "score": 0.5498261,
+      "topicality": 0.5498261
+    },
+    {
+      "mid": "/m/050k8",
+      "description": "mobile phone",
+      "score": 0.529172,
+      "topicality": 0.529172
+    },
+    {
+      "mid": "/m/01cd9",
+      "description": "brand",
+      "score": 0.52177346,
+      "topicality": 0.52177346
+    }
+  ],
+  "textAnnotations": [
+    {
+      "locale": "ta",
+      "description": "949595959\n\"பாப்பா\n",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 68,
+            "y": 92
+          },
+          {
+            "x": 85,
+            "y": 92
+          },
+          {
+            "x": 85,
+            "y": 137
+          },
+          {
+            "x": 68,
+            "y": 137
+          }
+        ]
+      }
+    },
+    {
+      "description": "949595959",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 86,
+            "y": 94
+          },
+          {
+            "x": 85,
+            "y": 137
+          },
+          {
+            "x": 75,
+            "y": 137
+          },
+          {
+            "x": 76,
+            "y": 94
+          }
+        ]
+      }
+    },
+    {
+      "description": "\"",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 77,
+            "y": 92
+          },
+          {
+            "x": 77,
+            "y": 93
+          },
+          {
+            "x": 69,
+            "y": 93
+          },
+          {
+            "x": 69,
+            "y": 92
+          }
+        ]
+      }
+    },
+    {
+      "description": "பாப்பா",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 77,
+            "y": 92
+          },
+          {
+            "x": 78,
+            "y": 137
+          },
+          {
+            "x": 70,
+            "y": 137
+          },
+          {
+            "x": 69,
+            "y": 92
+          }
+        ]
+      }
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 178,
+            "green": 211,
+            "blue": 171
+          },
+          "score": 0.42964008,
+          "pixelFraction": 0.09430496
+        },
+        {
+          "color": {
+            "red": 236,
+            "green": 186,
+            "blue": 170
+          },
+          "score": 0.068506055,
+          "pixelFraction": 0.00955297
+        },
+        {
+          "color": {
+            "red": 50,
+            "green": 52,
+            "blue": 47
+          },
+          "score": 0.009953158,
+          "pixelFraction": 0.012369871
+        },
+        {
+          "color": {
+            "red": 205,
+            "green": 240,
+            "blue": 198
+          },
+          "score": 0.35159054,
+          "pixelFraction": 0.17587262
+        },
+        {
+          "color": {
+            "red": 253,
+            "green": 214,
+            "blue": 203
+          },
+          "score": 0.015578585,
+          "pixelFraction": 0.0029393754
+        },
+        {
+          "color": {
+            "red": 246,
+            "green": 229,
+            "blue": 206
+          },
+          "score": 0.0132014295,
+          "pixelFraction": 0.005143907
+        },
+        {
+          "color": {
+            "red": 138,
+            "green": 175,
+            "blue": 133
+          },
+          "score": 0.010473729,
+          "pixelFraction": 0.0058787507
+        },
+        {
+          "color": {
+            "red": 196,
+            "green": 148,
+            "blue": 128
+          },
+          "score": 0.009535859,
+          "pixelFraction": 0.0014696877
+        },
+        {
+          "color": {
+            "red": 40,
+            "green": 56,
+            "blue": 43
+          },
+          "score": 0.009110304,
+          "pixelFraction": 0.011635028
+        },
+        {
+          "color": {
+            "red": 237,
+            "green": 237,
+            "blue": 228
+          },
+          "score": 0.009003059,
+          "pixelFraction": 0.23784445
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 67
+            },
+            {
+              "x": 210
+            },
+            {
+              "x": 210,
+              "y": 175
+            },
+            {
+              "x": 67,
+              "y": 175
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.72999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 50
+            },
+            {
+              "x": 227
+            },
+            {
+              "x": 227,
+              "y": 175
+            },
+            {
+              "x": 50,
+              "y": 175
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.87
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 30
+            },
+            {
+              "x": 244
+            },
+            {
+              "x": 244,
+              "y": 175
+            },
+            {
+              "x": 30,
+              "y": 175
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.93
+      }
+    ]
+  },
+  "fullTextAnnotation": {
+    "pages": [
+      {
+        "property": {
+          "detectedLanguages": [
+            {
+              "languageCode": "ta",
+              "confidence": 0.44
+            }
+          ]
+        },
+        "width": 286,
+        "height": 176,
+        "blocks": [
+          {
+            "boundingBox": {
+              "vertices": [
+                {
+                  "x": 86,
+                  "y": 92
+                },
+                {
+                  "x": 86,
+                  "y": 137
+                },
+                {
+                  "x": 69,
+                  "y": 137
+                },
+                {
+                  "x": 69,
+                  "y": 92
+                }
+              ]
+            },
+            "paragraphs": [
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 86,
+                      "y": 92
+                    },
+                    {
+                      "x": 86,
+                      "y": 137
+                    },
+                    {
+                      "x": 69,
+                      "y": 137
+                    },
+                    {
+                      "x": 69,
+                      "y": 92
+                    }
+                  ]
+                },
+                "words": [
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 86,
+                          "y": 94
+                        },
+                        {
+                          "x": 85,
+                          "y": 137
+                        },
+                        {
+                          "x": 75,
+                          "y": 137
+                        },
+                        {
+                          "x": 76,
+                          "y": 94
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 86,
+                              "y": 94
+                            },
+                            {
+                              "x": 86,
+                              "y": 97
+                            },
+                            {
+                              "x": 77,
+                              "y": 97
+                            },
+                            {
+                              "x": 77,
+                              "y": 94
+                            }
+                          ]
+                        },
+                        "text": "9",
+                        "confidence": 0.95
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 86,
+                              "y": 99
+                            },
+                            {
+                              "x": 86,
+                              "y": 102
+                            },
+                            {
+                              "x": 77,
+                              "y": 102
+                            },
+                            {
+                              "x": 77,
+                              "y": 99
+                            }
+                          ]
+                        },
+                        "text": "4",
+                        "confidence": 0.92
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 86,
+                              "y": 103
+                            },
+                            {
+                              "x": 86,
+                              "y": 107
+                            },
+                            {
+                              "x": 77,
+                              "y": 107
+                            },
+                            {
+                              "x": 77,
+                              "y": 103
+                            }
+                          ]
+                        },
+                        "text": "9",
+                        "confidence": 0.92
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 86,
+                              "y": 110
+                            },
+                            {
+                              "x": 86,
+                              "y": 113
+                            },
+                            {
+                              "x": 77,
+                              "y": 113
+                            },
+                            {
+                              "x": 77,
+                              "y": 110
+                            }
+                          ]
+                        },
+                        "text": "5",
+                        "confidence": 0.64
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 85,
+                              "y": 114
+                            },
+                            {
+                              "x": 85,
+                              "y": 117
+                            },
+                            {
+                              "x": 76,
+                              "y": 117
+                            },
+                            {
+                              "x": 76,
+                              "y": 114
+                            }
+                          ]
+                        },
+                        "text": "9",
+                        "confidence": 0.99
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 85,
+                              "y": 119
+                            },
+                            {
+                              "x": 85,
+                              "y": 123
+                            },
+                            {
+                              "x": 76,
+                              "y": 123
+                            },
+                            {
+                              "x": 76,
+                              "y": 119
+                            }
+                          ]
+                        },
+                        "text": "5",
+                        "confidence": 0.98
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 85,
+                              "y": 124
+                            },
+                            {
+                              "x": 85,
+                              "y": 128
+                            },
+                            {
+                              "x": 76,
+                              "y": 128
+                            },
+                            {
+                              "x": 76,
+                              "y": 124
+                            }
+                          ]
+                        },
+                        "text": "9",
+                        "confidence": 0.96
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 85,
+                              "y": 131
+                            },
+                            {
+                              "x": 85,
+                              "y": 134
+                            },
+                            {
+                              "x": 76,
+                              "y": 134
+                            },
+                            {
+                              "x": 76,
+                              "y": 131
+                            }
+                          ]
+                        },
+                        "text": "5",
+                        "confidence": 0.98
+                      },
+                      {
+                        "property": {
+                          "detectedBreak": {
+                            "type": "EOL_SURE_SPACE"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 85,
+                              "y": 135
+                            },
+                            {
+                              "x": 85,
+                              "y": 137
+                            },
+                            {
+                              "x": 76,
+                              "y": 137
+                            },
+                            {
+                              "x": 76,
+                              "y": 135
+                            }
+                          ]
+                        },
+                        "text": "9",
+                        "confidence": 0.97
+                      }
+                    ],
+                    "confidence": 0.92
+                  },
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ta"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 77,
+                          "y": 92
+                        },
+                        {
+                          "x": 77,
+                          "y": 93
+                        },
+                        {
+                          "x": 69,
+                          "y": 93
+                        },
+                        {
+                          "x": 69,
+                          "y": 92
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ta"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 77,
+                              "y": 92
+                            },
+                            {
+                              "x": 77,
+                              "y": 93
+                            },
+                            {
+                              "x": 69,
+                              "y": 93
+                            },
+                            {
+                              "x": 69,
+                              "y": 92
+                            }
+                          ]
+                        },
+                        "text": "\"",
+                        "confidence": 0.69
+                      }
+                    ],
+                    "confidence": 0.69
+                  },
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ta"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 77,
+                          "y": 92
+                        },
+                        {
+                          "x": 78,
+                          "y": 137
+                        },
+                        {
+                          "x": 70,
+                          "y": 137
+                        },
+                        {
+                          "x": 69,
+                          "y": 92
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ta"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 77,
+                              "y": 92
+                            },
+                            {
+                              "x": 78,
+                              "y": 117
+                            },
+                            {
+                              "x": 70,
+                              "y": 117
+                            },
+                            {
+                              "x": 69,
+                              "y": 92
+                            }
+                          ]
+                        },
+                        "text": "ப",
+                        "confidence": 0.69
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ta"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 77,
+                              "y": 92
+                            },
+                            {
+                              "x": 78,
+                              "y": 117
+                            },
+                            {
+                              "x": 70,
+                              "y": 117
+                            },
+                            {
+                              "x": 69,
+                              "y": 92
+                            }
+                          ]
+                        },
+                        "text": "ா",
+                        "confidence": 0.69
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ta"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 78,
+                              "y": 119
+                            },
+                            {
+                              "x": 78,
+                              "y": 137
+                            },
+                            {
+                              "x": 70,
+                              "y": 137
+                            },
+                            {
+                              "x": 70,
+                              "y": 119
+                            }
+                          ]
+                        },
+                        "text": "ப",
+                        "confidence": 0.63
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ta"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 78,
+                              "y": 119
+                            },
+                            {
+                              "x": 78,
+                              "y": 137
+                            },
+                            {
+                              "x": 70,
+                              "y": 137
+                            },
+                            {
+                              "x": 70,
+                              "y": 119
+                            }
+                          ]
+                        },
+                        "text": "்",
+                        "confidence": 0.63
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ta"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 78,
+                              "y": 119
+                            },
+                            {
+                              "x": 78,
+                              "y": 137
+                            },
+                            {
+                              "x": 70,
+                              "y": 137
+                            },
+                            {
+                              "x": 70,
+                              "y": 119
+                            }
+                          ]
+                        },
+                        "text": "ப",
+                        "confidence": 0.63
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ta"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "LINE_BREAK"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 78,
+                              "y": 119
+                            },
+                            {
+                              "x": 78,
+                              "y": 137
+                            },
+                            {
+                              "x": 70,
+                              "y": 137
+                            },
+                            {
+                              "x": 70,
+                              "y": 119
+                            }
+                          ]
+                        },
+                        "text": "ா",
+                        "confidence": 0.63
+                      }
+                    ],
+                    "confidence": 0.65
+                  }
+                ],
+                "confidence": 0.8
+              }
+            ],
+            "blockType": "TEXT",
+            "confidence": 0.8
+          }
+        ]
+      }
+    ],
+    "text": "949595959\n\"பாப்பா\n"
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/015fr",
+        "score": 1.0611,
+        "description": "Brazil"
+      },
+      {
+        "entityId": "/m/01187f7t",
+        "score": 0.8443,
+        "description": "Carteira Nacional de Habilitação"
+      },
+      {
+        "entityId": "/g/121_61c2",
+        "score": 0.711,
+        "description": "Departamento Estadual de Trânsito"
+      },
+      {
+        "entityId": "/t/24g_1m01jkvz7",
+        "score": 0.7095
+      },
+      {
+        "entityId": "/g/120tryhv",
+        "score": 0.5902,
+        "description": "Departamento Nacional de Trânsito"
+      },
+      {
+        "entityId": "/m/0btp2",
+        "score": 0.5252,
+        "description": "Traffic"
+      },
+      {
+        "entityId": "/m/015bv3",
+        "score": 0.2958,
+        "description": "Document"
+      },
+      {
+        "entityId": "/m/03qn6d7",
+        "score": 0.2813,
+        "description": "Vehicle registration certificate"
+      },
+      {
+        "entityId": "/m/02mrp",
+        "score": 0.2735,
+        "description": "Electronics"
+      },
+      {
+        "entityId": "/m/06d34f",
+        "score": 0.2615,
+        "description": "Evidence"
+      },
+      {
+        "entityId": "/t/24vq_6ybgtq3p",
+        "score": 0.2223
+      },
+      {
+        "entityId": "/m/029kh",
+        "score": 0.2163,
+        "description": "Digital data"
+      },
+      {
+        "entityId": "/m/0h94y36",
+        "score": 0.189,
+        "description": "Mobile app"
+      },
+      {
+        "entityId": "/m/03y39",
+        "score": 0.1882,
+        "description": "Information"
+      },
+      {
+        "entityId": "/g/11b77b4nf8",
+        "score": 0.1862,
+        "description": "2018"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "http://www.diarioi.com.br/wp-content/uploads/2018/04/cnh-digital-300x184.jpg"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "http://cdn.jornalgrandebahia.com.br/2018/05/Carteira-de-motorista-digital.jpg"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/06Tp75-cWdEFcEGcNlTbdA69WI2VCPoyB15SkZXCNXygiPcaTB9v49EEfz4TqmC5GUWiRxV2=w1280-h1280-n-no-v1"
+      },
+      {
+        "url": "http://www.santacruzam.com/sitedata/imgsdt//noticiasLe/43679/cnh-smartphone-700x471.jpg"
+      },
+      {
+        "url": "http://www.nfnoticias.com.br/thumb.php?arquivo=images/noticias/10553_280418123035_2bb40d3ad8a62e24de35be867bae0747.jpg&amp;largura=1200&amp;altura=630"
+      },
+      {
+        "url": "http://www.unionimmigra.com/wp-content/uploads/2018/04/CNH-DIGITAL.jpg"
+      },
+      {
+        "url": "https://i2.wp.com/www.valedosolfm.com.br/wp-content/uploads/2018/01/digital1.jpg?resize=1050%2C700"
+      },
+      {
+        "url": "https://s3.amazonaws.com/lucasdorioverde.portaldacidade.com/img/news/2018-07/cnh-digital-e-disponibilizada-gratuitamente-em-lucas-do-rio-verde-5b5b07b31080a.jpg"
+      },
+      {
+        "url": "http://www.trespassosnews.com.br/media/k2/items/cache/c204b605d2aebcbcde92ed24a5ece830_XL.jpg"
+      },
+      {
+        "url": "https://i2.wp.com/88mph.com.br/wp-content/uploads/2018/04/cnh-e.jpg?fit=960%2C620&amp;ssl=1"
+      },
+      {
+        "url": "https://diariocajamarense.com/wp-content/uploads/2018/08/cnh-e.jpg"
+      },
+      {
+        "url": "https://i2.wp.com/bloogao.com/wp-content/uploads/2018/06/cnh-e.jpg?resize=960%2C600&amp;ssl=1"
+      },
+      {
+        "url": "https://img.autoyas.com/2/safe_image.php?url=http%3A%2F%2Fportaldotransito.com.br%2Fwp-content%2Fuploads%2F2018%2F01%2FCNH-Digital_frente.jpg&amp;_nc_hash=AQD3UKFXYtYSX035"
+      },
+      {
+        "url": "https://www.gazetasp.com.br/media/k2/items/cache/c541943adb7cc0b44c99ba969ea9d600_XL.jpg"
+      },
+      {
+        "url": "http://www.jornaldoreboucas.com.br/wp-content/uploads/2018/01/normal_digital1.jpg"
+      },
+      {
+        "url": "https://diariodegoias.com.br/images/2018/03/17/cnh_1111.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/asemananews.com.br/wp-content/uploads/2018/01/CNH-digital.jpg?fit=890%2C593&amp;ssl=1"
+      },
+      {
+        "url": "https://jornaldebelmonte.com.br/fotos/fotos/1530320752Carteira-Motorista_zz89147f153b.jpg"
+      },
+      {
+        "url": "https://techcoisas.com/site/wp-content/uploads/2018/07/identidade-digital-e-o-novo-graal.jpg"
+      },
+      {
+        "url": "https://media.licdn.com/media-proxy/ext?w=800&amp;h=800&amp;hash=Y9NAmOedK%2BjbgEsGmGr%2FqQuzy3Q%3D&amp;ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSfrSpsgUbfS0ChlI_IfnwEXO5H8a1XemNFdw00OCaddmcPignWyg4s3pV6eAVNlx3kdKpF-qtMWsc8e1-TwyJC73iVV8vLQll8fq4GKH6GWxUi3WUbO71GJlCE-dQppIJ8XRg9tXoANgvmqNl6U9wkVm03orqNAwu07m8L3ekUAMxD0T5AMMUu6yv8zffgR3PrE7koqzEJKK0BLwxz2X-1vngfyHbrG9uqnoC9CgOg8NlLX7-pvkTxHXpAfsQcRKEh_XyGHyYqZ0E8Sw"
+      },
+      {
+        "url": "https://imirante.com/imagens/2018/01/25/1516891632-252978070-810x471.png"
+      },
+      {
+        "url": "http://www.autoescolarumocerto.com.br/thumb.php?w=750&amp;h=500&amp;src=images/blog/1531958475.jpg"
+      },
+      {
+        "url": "http://vnoticia.com.br/img/noticias/2669/2bb40d3ad8a62e24de35be867bae0747.jpg"
+      },
+      {
+        "url": "https://www.nxmotors.com.br/media/c%3Acentered/w%3A800/7/0/e/249d8a201e7066474cf540f5282f8.jpg"
+      },
+      {
+        "url": "https://static.vix.com/pt/sites/default/files/styles/large/public/c/cnh-digital-foto-0718-1400x800.jpg?itok=AG998xNe"
+      },
+      {
+        "url": "https://s.yimg.com/ny/api/res/1.2/J_OFMPAY4ITe6mp4Pn3r.A--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/pt-BR/homerun/canal_tech_990/fb27786cca8fb353ff4716be2ed8b050"
+      },
+      {
+        "url": "https://i.vrum.com.br/JB2AedbCOSiXw5WR_w36rkX0Bhc=/smart/imgsapp.diariodepernambuco.vrum.com.br/app/noticia_128576568202/2017/10/31/51523/20171031130757768241e.jpg"
+      },
+      {
+        "url": "https://www.45graus.com.br/uploads/images/2018/02/piaui-lanca-cnh-digital-nesta-quinta-feira-1.jpg"
+      },
+      {
+        "url": "https://radartecnologico.com.br/wp-content/uploads/2017/11/cnh-digital-00.jpg"
+      },
+      {
+        "url": "https://internet58.com.br/wp-content/uploads/2018/04/cnh-digital-internet58.jpg"
+      },
+      {
+        "url": "https://i1.wp.com/fatosocultos.com.br/wp-content/uploads/2018/03/cnh-smartphone-700x471.jpg?fit=700%2C471"
+      },
+      {
+        "url": "https://img.autoyas.com/2/safe_image.php?d=AQDEAbNCXAiqqdz1&amp;url=https%3A%2F%2Ftecnoblog.net%2Fwp-content%2Fuploads%2F2018%2F01%2Fcnh-smartphone.jpg&amp;_nc_hash=AQCu-3v22B_pHM65"
+      },
+      {
+        "url": "http://capixabanews.com/wp-content/uploads/2018/05/cnh-smartphone.jpg"
+      },
+      {
+        "url": "https://tecnoblog.net/wp-content/uploads/2018/01/cnh-smartphone-700x471.jpg"
+      },
+      {
+        "url": "https://i1.wp.com/fatosocultos.com.br/wp-content/uploads/2018/03/cnh-smartphone-700x471.jpg?resize=700%2C471"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1274797605997369"
+      },
+      {
+        "url": "https://www.45graus.com.br/tim.php?src=https://www.45graus.com.br/uploads/images/2018/02/piaui-lanca-cnh-digital-nesta-quinta-feira-1.jpg&amp;w=700&amp;h="
+      },
+      {
+        "url": "https://static.vix.com/pt/sites/default/files/styles/l/public/c/cnh-digital-1400x800-0118.jpg?itok=v5tJ4F-6"
+      },
+      {
+        "url": "https://abrilclaudia.files.wordpress.com/2018/07/screenshot_20180703-133806.png?w=680&amp;h=453&amp;crop=1"
+      },
+      {
+        "url": "https://cdn.vivotech.com.br/vivo-tech/wp-content/uploads/2018/07/22145910/cnh1.png"
+      },
+      {
+        "url": "https://i0.statig.com.br/bancodeimagens/el/44/mv/el44mvp9zl0qep4l2kzqx5cvj.jpg"
+      },
+      {
+        "url": "http://www.miseria.com.br/fotos_not/2018/06/28/20180628171911_meio.jpg"
+      },
+      {
+        "url": "http://img.jornalcruzeiro.com.br/img/2018/07/16/media/262478_1.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/www.opresente.com.br/wp-content/uploads/2018/02/carteira-digital-2.jpg?resize=750%2C382&amp;ssl=1"
+      },
+      {
+        "url": "http://static.wixstatic.com/media/e9b032_33dd475c6a3840878d289a4448360ede~mv2.jpg/v1/fill/w_630,h_441,al_c,q_80,usm_0.66_1.00_0.01/e9b032_33dd475c6a3840878d289a4448360ede~mv2.webp"
+      },
+      {
+        "url": "https://timeline.canaltech.com.br/303736.700/carteira-digital-de-transito-que-une-cnh-e-crlv-ja-esta-disponivel-no-df.jpg"
+      },
+      {
+        "url": "https://i1.wp.com/fatosocultos.com.br/wp-content/uploads/2018/03/cnh-smartphone-700x471.jpg?fit=700%2C471&amp;w=640"
+      },
+      {
+        "url": "https://sollicita.com.br/Content/ConteudoDinamico/ImagensDestaqueNoticia/qtgfxes.jpeg"
+      },
+      {
+        "url": "https://statig0.akamaized.net/bancodeimagens/a7/uu/zm/a7uuzmbo3cf3romuqpjq6vqy2.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1556018557857515"
+      },
+      {
+        "url": "https://jurosbaixos.com.br/conteudo/wp-content/uploads/sites/2/2018/06/1530289839_image4.png"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://tecnoblog.net/236968/tirar-cnh-digital-gratis-sao-paulo/",
+        "pageTitle": "&lt;b&gt;CNH digital&lt;/b&gt; é liberada gratuitamente em São Paulo – Tecnoblog",
+        "partialMatchingImages": [
+          {
+            "url": "https://tecnoblog.net/wp-content/uploads/2018/01/cnh-smartphone-700x471.jpg"
+          },
+          {
+            "url": "https://tecnoblog.net/wp-content/uploads/2018/01/cnh-smartphone-700x471-340x191.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://tecnoblog.net/251377/cnh-digital-baixa-adesao/",
+        "pageTitle": "&lt;b&gt;CNH digital&lt;/b&gt; teve procura de apenas 0,36% dos condutores ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://tecnoblog.net/wp-content/uploads/2018/01/cnh-smartphone-700x471.jpg"
+          },
+          {
+            "url": "https://tecnoblog.net/wp-content/uploads/2018/01/cnh-smartphone-700x471-340x191.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://tecnoblog.net/241140/cnh-digital-brasil/",
+        "pageTitle": "&lt;b&gt;CNH digital&lt;/b&gt; já pode ser usada em todo o país – Tecnoblog",
+        "partialMatchingImages": [
+          {
+            "url": "https://tecnoblog.net/wp-content/uploads/2018/01/cnh-smartphone-700x471.jpg"
+          },
+          {
+            "url": "https://tecnoblog.net/wp-content/uploads/2018/01/cnh-smartphone-700x471-340x191.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://tecnologia.ig.com.br/2018-04-16/cnh-digital.html",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; já está disponível em todo país; veja como fazer uma ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.statig.com.br/bancodeimagens/el/44/mv/el44mvp9zl0qep4l2kzqx5cvj.jpg"
+          },
+          {
+            "url": "https://statig0.akamaized.net/bancodeimagens/a7/uu/zm/a7uuzmbo3cf3romuqpjq6vqy2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://tecnoblog.net/233391/cnh-eletronica-prazo-julho/",
+        "pageTitle": "Implementação da &lt;b&gt;CNH digital&lt;/b&gt; em todo o Brasil é adiada para julho ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://tecnoblog.net/wp-content/uploads/2018/01/cnh-smartphone-700x471.jpg"
+          },
+          {
+            "url": "https://tecnoblog.net/wp-content/uploads/2018/01/cnh-smartphone-700x471-340x191.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://claudia.abril.com.br/sua-vida/a-cnh-digital-agora-e-obrigatoria-em-todo-o-pais/",
+        "pageTitle": "A &lt;b&gt;CNH Digital&lt;/b&gt; agora é obrigatória em todo o país | CLAUDIA",
+        "partialMatchingImages": [
+          {
+            "url": "https://abrilclaudia.files.wordpress.com/2018/07/screenshot_20180703-133806.png?w=680&amp;h=453&amp;crop=1"
+          }
+        ]
+      },
+      {
+        "url": "https://oimparcial.com.br/noticias/2018/04/cnh-digital-ja-esta-disponivel-saiba-como-usar/",
+        "pageTitle": "&lt;b&gt;CNH digital&lt;/b&gt; já está disponível, saiba como usar | O Imparcial",
+        "partialMatchingImages": [
+          {
+            "url": "https://oimparcial.com.br/media/2018/04/20180131121842_cnh-digital-carteira-habilitacao.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://imirante.com/sao-luis/noticias/2018/01/25/cnh-digital-sera-disponibilizada-a-partir-desta-sexta-feira-26-pelo-detran-ma.shtml",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; será disponibilizada a partir desta sexta-feira (26) pelo ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://imirante.com/imagens/2018/01/25/1516891632-252978070-810x471.png"
+          }
+        ]
+      },
+      {
+        "url": "https://sollicita.com.br/Noticia/?p_idNoticia=13438&amp;n=cnh-digital-est%C3%A1-dispon%C3%ADvel-em-todo-brasil:-saiba-como-obter",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; está disponível em todo Brasil: saiba como obter | Sollicita",
+        "partialMatchingImages": [
+          {
+            "url": "https://sollicita.com.br/Content/ConteudoDinamico/ImagensDestaqueNoticia/qtgfxes.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "http://eshoje.com.br/cnh-digital-tem-adesao-de-apenas-036-dos-motoristas/",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; tem adesão de apenas 0,36% dos motoristas – ESHOJE",
+        "partialMatchingImages": [
+          {
+            "url": "http://eshoje.com.br/wp-content/uploads/2018/07/cnh-digital-300x178.png"
+          }
+        ]
+      },
+      {
+        "url": "https://financeone.com.br/carteira-de-motorista-2019-formato-cartao/cnh-digital/",
+        "pageTitle": "&lt;b&gt;cnh digital&lt;/b&gt; | FinanceOne",
+        "partialMatchingImages": [
+          {
+            "url": "https://financeone.com.br/wp-content/uploads/2018/09/cnh-digital.png"
+          },
+          {
+            "url": "https://financeone.com.br/wp-content/uploads/2018/09/cnh-digital-300x200.png"
+          }
+        ]
+      },
+      {
+        "url": "http://www2.jornalcruzeiro.com.br/materia/905802/cnh-digital-tem-adesao-de-036-dos-motoristas",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; tem adesão de apenas 0,36% dos motoristas do País ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://img.jornalcruzeiro.com.br/img/2018/07/16/media/262478_1.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.jm1.com.br/geral/cnh-digital.html",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; | JM1 Jornal das Montanhas",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.jm1.com.br/wp-content/uploads/2018/02/cnh-digital-324x160.jpg"
+          },
+          {
+            "url": "https://www.jm1.com.br/wp-content/uploads/2018/02/cnh-digital-280x158.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://internet58.com.br/descubra-como-solicitar-a-cnh-digital/",
+        "pageTitle": "Descubra como solicitar a &lt;b&gt;CNH Digital&lt;/b&gt; - Internet 5.8 Telecom",
+        "partialMatchingImages": [
+          {
+            "url": "https://internet58.com.br/wp-content/uploads/2018/04/cnh-digital-internet58.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=CWAUy1FK8XE",
+        "pageTitle": "COMO CADASTRAR A &lt;b&gt;CNH DIGITAL&lt;/b&gt; | 2018 - YouTube",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ytimg.com/vi/CWAUy1FK8XE/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://tecnoblog.net/246531/voos-domesticos-cnh-digital-titulo-eleitor/",
+        "pageTitle": "Você pode embarcar em voos domésticos com app da &lt;b&gt;CNH&lt;/b&gt; ou título ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://tecnoblog.net/wp-content/uploads/2018/01/cnh-smartphone-700x471.jpg"
+          },
+          {
+            "url": "https://tecnoblog.net/wp-content/uploads/2018/01/cnh-smartphone-700x471-340x191.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://canaltech.com.br/apps/carteira-digital-de-transito-que-une-cnh-e-crlv-ja-esta-disponivel-no-df-121284/",
+        "pageTitle": "Carteira &lt;b&gt;Digital&lt;/b&gt; de Trânsito que une &lt;b&gt;CNH&lt;/b&gt; e CRLV já está disponível ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://timeline.canaltech.com.br/303736.700/carteira-digital-de-transito-que-une-cnh-e-crlv-ja-esta-disponivel-no-df-121284.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.idseguro.com.br/6-passos-para-emitir-a-cnh-digital/",
+        "pageTitle": "6 passos para emitir a &lt;b&gt;CNH Digital&lt;/b&gt; - ID Seguro",
+        "partialMatchingImages": [
+          {
+            "url": "https://s3.amazonaws.com/idseguro-producao/wp-content/uploads/2018/05/3.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.vix.com/pt/noticias/554946/ja-da-para-usar-so-cnh-digital-e-aposentar-a-impressa-em-metade-do-pais-como-obter",
+        "pageTitle": "Já dá para usar só &lt;b&gt;CNH digital&lt;/b&gt; (e aposentar a impressa) em metade ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://static.vix.com/pt/sites/default/files/styles/l/public/c/cnh-digital-1400x800-0118.jpg?itok=v5tJ4F-6"
+          }
+        ]
+      },
+      {
+        "url": "https://facility.org.br/cnh-digital-ja-esta-disponivel-em-todo-o-brasil/",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; já está disponível em todo o Brasil | Facility ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://facility.org.br/wp-content/uploads/2018/04/14-CNH-Digital-j%C3%A1-est%C3%A1-dispon%C3%ADvel-no-Brasil.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.personaldespachante.com.br/2018/08/21/conheca-a-cnh-digital-versao-virtual-do-documento-que-facilita-o-dia-a-dia-e-ainda-reduz-problemas-relacionados-a-perda-ou-roubo/",
+        "pageTitle": "Conheça a &lt;b&gt;CNH Digital&lt;/b&gt;, versão virtual do documento que facilita o ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.personaldespachante.com.br/wp-content/uploads/2018/08/cnh.jpg"
+          },
+          {
+            "url": "https://cdn.vivotech.com.br/vivo-tech/wp-content/uploads/2018/07/22145910/cnh1.png"
+          }
+        ]
+      },
+      {
+        "url": "http://www.unionimmigra.com/detran-sp-disponibiliza-cnh-digital-e-envio-gratis-do-documento-impresso/",
+        "pageTitle": "Detran.SP disponibiliza &lt;b&gt;CNH Digital&lt;/b&gt; e envio grátis do documento ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.unionimmigra.com/wp-content/uploads/2018/04/CNH-DIGITAL-636x333.jpg"
+          },
+          {
+            "url": "http://www.unionimmigra.com/wp-content/uploads/2018/04/CNH-DIGITAL.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.folhabv.com.br/noticia/Motoristas-deverao-fazer-o-cadastro-no-portal-do-Denatran-e-baixar-o-aplicativo/38327",
+        "pageTitle": "Motoristas deverão fazer o cadastro no portal do Denatran e baixar ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://ebvadmin.com.br/public/images/noti-1524009583.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.diariodeaparecida.com.br/home/goias-e-piaui-sao-os-unicos-estados-que-cobram-pela-cnh-digital/",
+        "pageTitle": "Goiás e Piauí são os únicos estados que cobram pela &lt;b&gt;CNH digital&lt;/b&gt; ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.diariodeaparecida.com.br/home/wp-content/uploads/2018/05/cnh.png"
+          }
+        ]
+      },
+      {
+        "url": "http://cnbba.org.br/noticias/cnb-cf-divulga-recomendacao-no-1-2018-sobre-cnh-digital",
+        "pageTitle": "CNB/CF divulga Recomendação nº 1/2018 sobre &lt;b&gt;CNH Digital&lt;/b&gt; ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://cnbba.org.br/wp-content/uploads/2018/05/20180131121842_cnh-digital-carteira-habilitacao.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.trespassosnews.com.br/mais-lidas/item/26287-cnh-digital-esta-disponivel-em-todo-territorio-nacional-veja-como-obter-a-sua",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; está disponível em todo território nacional; veja como ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.trespassosnews.com.br/media/k2/items/cache/c204b605d2aebcbcde92ed24a5ece830_XL.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://proximocarro.com/cnh-digital-2019/",
+        "pageTitle": "&lt;b&gt;CNH DIGITAL&lt;/b&gt; 2019 → Como tirar a &lt;b&gt;CNH Digital&lt;/b&gt;? 【CADASTRO!!】",
+        "partialMatchingImages": [
+          {
+            "url": "https://proximocarro.com/wp-content/uploads/2018/08/Screenshot_2-6.png"
+          }
+        ]
+      },
+      {
+        "url": "http://cnhdigital.detran.ma.gov.br/",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt;",
+        "partialMatchingImages": [
+          {
+            "url": "http://cnhdigital.detran.ma.gov.br/cnhdigital/imagem/cnh-e_rotativo1.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.folhadoprogresso.com.br/cnh-digital-passa-a-ser-obrigatoria-em-todo-o-pais/",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; passa a ser obrigatória em todo o país – Folha do ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://i1.wp.com/www.folhadoprogresso.com.br/wp-content/uploads/2018/07/cnh.jpg?fit=888%2C500&amp;w=640"
+          }
+        ]
+      },
+      {
+        "url": "https://www.gomesgonzaga.com.br/portfolio/cnh-digital/",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; - gomes • gonzaga",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.gomesgonzaga.com.br/wp-content/uploads/2018/05/0000-600x333.png"
+          }
+        ]
+      },
+      {
+        "url": "http://www.valedosolfm.com.br/2018/01/cnh-digital-estara-disponivel-partir-de-fevereiro-no-parana/",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; estará disponível a partir de fevereiro no Paraná • Vale ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i2.wp.com/www.valedosolfm.com.br/wp-content/uploads/2018/01/digital1.jpg?resize=1050%2C700"
+          }
+        ]
+      },
+      {
+        "url": "https://88mph.com.br/2018/04/27/cnh-digital-esta-agora-disponivel-em-todo-brasil/",
+        "pageTitle": "&lt;b&gt;CNH digital&lt;/b&gt; está agora disponível em todo Brasil - 88MPH",
+        "partialMatchingImages": [
+          {
+            "url": "https://i2.wp.com/88mph.com.br/wp-content/uploads/2018/04/cnh-e.jpg?resize=640%2C413&amp;ssl=1"
+          },
+          {
+            "url": "https://i2.wp.com/88mph.com.br/wp-content/uploads/2018/04/cnh-e.jpg?fit=960%2C620&amp;ssl=1"
+          }
+        ]
+      },
+      {
+        "url": "http://www.reporter-am.com.br/cnh-digital-ja-pode-ser-feita-em-todo-o-pais/",
+        "pageTitle": "&lt;b&gt;CNH digital&lt;/b&gt; já pode ser feita em todo o país | Repórter",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.reporter-am.com.br/wp-content/uploads/2018/04/CNH-digital-000.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.miseria.com.br/index.php?page=noticia&amp;cod_not=223395",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; já serve como documento oficial na região do Cariri ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.miseria.com.br/fotos_not/2018/06/28/20180628171911_meio.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.vix.com/pt/noticias/561090/agora-o-detran-tem-que-te-dar-a-cnh-no-celular-como-solicitar",
+        "pageTitle": "Emissão de &lt;b&gt;CNH&lt;/b&gt; no celular agora é obrigatória em todo país: como ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://static.vix.com/pt/sites/default/files/styles/l/public/c/cnh-digital-1400x800-0118.jpg?itok=v5tJ4F-6"
+          },
+          {
+            "url": "https://static.vix.com/pt/sites/default/files/styles/large/public/c/cnh-digital-foto-0718-1400x800.jpg?itok=MyEtLoM7"
+          }
+        ]
+      },
+      {
+        "url": "http://www.jornalgrandebahia.com.br/2018/05/com-adesao-do-rio-de-janeiro-cnh-digital-pode-ser-feita-em-todo-o-pais/",
+        "pageTitle": "Com adesão do Rio de Janeiro, &lt;b&gt;CNH digital&lt;/b&gt; pode ser feita em todo o",
+        "partialMatchingImages": [
+          {
+            "url": "http://cdn.jornalgrandebahia.com.br/2018/05/Carteira-de-motorista-digital.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.atlanticanews.com.br/noticias/transito/17718/detran-passa-a-oferecer-cnh-digital-e-facilita-emissao-do-licenciamento-30-06-2018/",
+        "pageTitle": "Detran passa a oferecer &lt;b&gt;CNH digital&lt;/b&gt; e facilita emissão do ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.atlanticanews.com.br/painel/modulos/artigos/images/1530320752Carteira-Motorista.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.jm1.com.br/geral/cnh-digital-ja-pode-ser-feita-em-todo-o-pais.html",
+        "pageTitle": "&lt;b&gt;CNH digital&lt;/b&gt; já pode ser feita em todo o país | JM1 Jornal das ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.jm1.com.br/wp-content/uploads/2018/02/cnh-digital-324x160.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://radartecnologico.com.br/cnh-digital-ja-esta-disponivel-em-alagoas/",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; já está disponível em Alagoas | Radar Tecnológico",
+        "partialMatchingImages": [
+          {
+            "url": "https://radartecnologico.com.br/wp-content/uploads/2017/11/cnh-digital-00.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://lucasdorioverde.portaldacidade.com/noticias/cidade/cnh-digital-e-disponibilizada-gratuitamente-em-lucas-do-rio-verde",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; é disponibilizada em Lucas do Rio Verde",
+        "partialMatchingImages": [
+          {
+            "url": "https://s3.amazonaws.com/lucasdorioverde.portaldacidade.com/img/news/2018-07/cnh-digital-e-disponibilizada-gratuitamente-em-lucas-do-rio-verde-5b5b07b31080a.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://blog.autoescolamodelo.com/tag/cnh-digital/",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; – Blog Autoescola Modelo",
+        "partialMatchingImages": [
+          {
+            "url": "https://blog.autoescolamodelo.com/wp-content/uploads/2018/05/20180131121842_cnh-digital-carteira-habilitacao-200x140.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://errejotanoticias.com.br/index.php/noticias/variedades/item/1044-detran-rj-oferece-cnh-digital",
+        "pageTitle": "Detran/RJ oferece &lt;b&gt;CNH digital&lt;/b&gt; - Errejota Notícias",
+        "partialMatchingImages": [
+          {
+            "url": "http://errejotanoticias.com.br/media/k2/items/cache/a39a6f25dc4540ba260d65470894f1a3_M.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://asemananews.com.br/2018/01/30/cnh-digital-estara-disponivel-gratuitamente-a-partir-de-fevereiro-no-parana/",
+        "pageTitle": "&lt;b&gt;CNH digital&lt;/b&gt; estará disponível gratuitamente a partir de fevereiro no ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/asemananews.com.br/wp-content/uploads/2018/01/CNH-digital.jpg?fit=890%2C593&amp;ssl=1"
+          }
+        ]
+      },
+      {
+        "url": "http://noticias.cennoticias.com/6865330?origin=relative&amp;pageId=15cc87cf-d8dc-45b9-9b06-3ae095c73028&amp;PageIndex=0",
+        "pageTitle": "&lt;b&gt;CNH digital&lt;/b&gt; é lançada e de graça - Central das Notícias",
+        "partialMatchingImages": [
+          {
+            "url": "http://img.cdn.cennoticias.com/3523a2c4-ce14-4a85-9971-855869d61910_thumbnail"
+          }
+        ]
+      },
+      {
+        "url": "https://www.scoopnest.com/pt/s/CNH%20Digital/",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt;: todas as notícias de última hora ao vivo, fotos e vídeos ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/media/DiP_NNpUYAAmFU1.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.cliquef5.com.br/geral/tecnologia/cnh-digital-esta-disponivel-em-todo-territorio-nacional-veja-como-obter-a-sua/143261",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; está disponível em todo território nacional; veja como ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://statig2.akamaized.net/bancodeimagens/a7/uu/zm/a7uuzmbo3cf3romuqpjq6vqy2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.unionimmigra.com/tag/cnh-digital/",
+        "pageTitle": "&lt;b&gt;CNH digital&lt;/b&gt; - Union - Immigration Services",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.unionimmigra.com/wp-content/uploads/2018/04/CNH-DIGITAL-636x333.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://saberticlegal.com.br/cnh-digital-para-condutores-de-veiculos/",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; para Condutores de Veículos - - Saber TIC Legal",
+        "partialMatchingImages": [
+          {
+            "url": "http://saberticlegal.com.br/wp-content/uploads/2018/06/SABERTICLEGAL-imagem-cnh-digital-2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.24horasnews.com.br/noticia/cnh-digital-esta-disponivel-em-todo-territorio-nacional-veja-como-obter-a-sua.html",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; está disponível em todo território nacional; veja como ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.24horasnews.com.br/imagens/2018/04/16/cnh-digital-esta-disponivel-em-todo-territorio-nacional-veja-como-obter-a-sua.jpg"
+          },
+          {
+            "url": "https://statig2.akamaized.net/bancodeimagens/a7/uu/zm/a7uuzmbo3cf3romuqpjq6vqy2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://24horasnews.com.br/noticia/cnh-digital-esta-disponivel-em-todo-territorio-nacional-veja-como-obter-a-sua.html",
+        "pageTitle": "&lt;b&gt;CNH Digital&lt;/b&gt; está disponível em todo território nacional; veja como ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://24horasnews.com.br/imagens/2018/04/16/cnh-digital-esta-disponivel-em-todo-territorio-nacional-veja-como-obter-a-sua.jpg"
+          },
+          {
+            "url": "https://statig2.akamaized.net/bancodeimagens/a7/uu/zm/a7uuzmbo3cf3romuqpjq6vqy2.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://tecnoblog.net/wp-content/uploads/2018/01/cnh-smartphone-700x471-340x191.jpg"
+      },
+      {
+        "url": "https://www.nxmotors.com.br/media/c%3Acentered/w%3A800/7/0/e/249d8a201e7066474cf540f5282f8.jpg"
+      },
+      {
+        "url": "http://tvdmococa.com.br/wp-content/uploads/2018/07/cnh-digital-teve-procura-de-apen-404x242.jpg"
+      },
+      {
+        "url": "http://i2.wp.com/www.folhadoprogresso.com.br/wp-content/uploads/2018/08/cnh_digital.jpg?fit=800%2C489&amp;resize=350%2C200"
+      },
+      {
+        "url": "https://opardal.com.br/wp-content/uploads/2018/04/CNH-digital-800x445.jpg"
+      },
+      {
+        "url": "https://2.bp.blogspot.com/-82tbWIcrrsE/WuNVs2XbcmI/AAAAAAABAiQ/kwJiIOjdJ-YDAc2ntekF9p6SqL3q6MuCwCLcBGAs/s400/cnh-digital%2B%25281%2529.jpg"
+      },
+      {
+        "url": "http://www.jornaldamidia.com.br/noticia/wp-content/uploads/2018/05/cnhdigital-364x245.png"
+      },
+      {
+        "url": "http://www.colnizamtnoticias.com.br/media/post/f8fbfd9a09dcad6008d22e645d694d34.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "cnh digital",
+        "languageCode": "pt"
+      }
+    ]
+  }
+}

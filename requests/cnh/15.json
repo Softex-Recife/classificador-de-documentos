@@ -1,0 +1,2381 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/07s6nbt",
+      "description": "text",
+      "score": 0.93101984,
+      "topicality": 0.93101984
+    },
+    {
+      "mid": "/m/01jwgf",
+      "description": "product",
+      "score": 0.79296815,
+      "topicality": 0.79296815
+    },
+    {
+      "mid": "/m/03gq5hm",
+      "description": "font",
+      "score": 0.6417569,
+      "topicality": 0.6417569
+    },
+    {
+      "mid": "/m/03qh03g",
+      "description": "media",
+      "score": 0.5258825,
+      "topicality": 0.5258825
+    },
+    {
+      "mid": "/m/01lhf",
+      "description": "communication",
+      "score": 0.5151726,
+      "topicality": 0.5151726
+    },
+    {
+      "mid": "/m/0bt_c3",
+      "description": "book",
+      "score": 0.5025239,
+      "topicality": 0.5025239
+    }
+  ],
+  "textAnnotations": [
+    {
+      "locale": "pt-PT",
+      "description": "Sua CNH Digital com o valor\nda impressa\n",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 21,
+            "y": 12
+          },
+          {
+            "x": 172,
+            "y": 12
+          },
+          {
+            "x": 172,
+            "y": 41
+          },
+          {
+            "x": 21,
+            "y": 41
+          }
+        ]
+      }
+    },
+    {
+      "description": "Sua",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 21,
+            "y": 12
+          },
+          {
+            "x": 40,
+            "y": 12
+          },
+          {
+            "x": 40,
+            "y": 27
+          },
+          {
+            "x": 21,
+            "y": 27
+          }
+        ]
+      }
+    },
+    {
+      "description": "CNH",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 45,
+            "y": 12
+          },
+          {
+            "x": 66,
+            "y": 12
+          },
+          {
+            "x": 66,
+            "y": 27
+          },
+          {
+            "x": 45,
+            "y": 27
+          }
+        ]
+      }
+    },
+    {
+      "description": "Digital",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 71,
+            "y": 12
+          },
+          {
+            "x": 106,
+            "y": 12
+          },
+          {
+            "x": 106,
+            "y": 27
+          },
+          {
+            "x": 71,
+            "y": 27
+          }
+        ]
+      }
+    },
+    {
+      "description": "com",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 111,
+            "y": 12
+          },
+          {
+            "x": 126,
+            "y": 12
+          },
+          {
+            "x": 126,
+            "y": 27
+          },
+          {
+            "x": 111,
+            "y": 27
+          }
+        ]
+      }
+    },
+    {
+      "description": "o",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 138,
+            "y": 12
+          },
+          {
+            "x": 141,
+            "y": 12
+          },
+          {
+            "x": 141,
+            "y": 27
+          },
+          {
+            "x": 138,
+            "y": 27
+          }
+        ]
+      }
+    },
+    {
+      "description": "valor",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 148,
+            "y": 12
+          },
+          {
+            "x": 172,
+            "y": 12
+          },
+          {
+            "x": 172,
+            "y": 27
+          },
+          {
+            "x": 148,
+            "y": 27
+          }
+        ]
+      }
+    },
+    {
+      "description": "da",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 63,
+            "y": 27
+          },
+          {
+            "x": 76,
+            "y": 27
+          },
+          {
+            "x": 76,
+            "y": 41
+          },
+          {
+            "x": 63,
+            "y": 41
+          }
+        ]
+      }
+    },
+    {
+      "description": "impressa",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 82,
+            "y": 27
+          },
+          {
+            "x": 128,
+            "y": 27
+          },
+          {
+            "x": 128,
+            "y": 41
+          },
+          {
+            "x": 82,
+            "y": 41
+          }
+        ]
+      }
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "UNLIKELY",
+    "medical": "UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 220,
+            "green": 244,
+            "blue": 203
+          },
+          "score": 0.376275,
+          "pixelFraction": 0.18016581
+        },
+        {
+          "color": {
+            "red": 230,
+            "green": 186,
+            "blue": 168
+          },
+          "score": 0.0839206,
+          "pixelFraction": 0.0047831633
+        },
+        {
+          "color": {
+            "red": 83,
+            "green": 85,
+            "blue": 77
+          },
+          "score": 0.022922425,
+          "pixelFraction": 0.009991497
+        },
+        {
+          "color": {
+            "red": 241,
+            "green": 244,
+            "blue": 237
+          },
+          "score": 0.022368088,
+          "pixelFraction": 0.11426446
+        },
+        {
+          "color": {
+            "red": 186,
+            "green": 209,
+            "blue": 170
+          },
+          "score": 0.25198206,
+          "pixelFraction": 0.06866497
+        },
+        {
+          "color": {
+            "red": 213,
+            "green": 192,
+            "blue": 168
+          },
+          "score": 0.04026059,
+          "pixelFraction": 0.0048894556
+        },
+        {
+          "color": {
+            "red": 138,
+            "green": 162,
+            "blue": 124
+          },
+          "score": 0.030395161,
+          "pixelFraction": 0.003507653
+        },
+        {
+          "color": {
+            "red": 189,
+            "green": 148,
+            "blue": 131
+          },
+          "score": 0.01909765,
+          "pixelFraction": 0.0014880953
+        },
+        {
+          "color": {
+            "red": 103,
+            "green": 112,
+            "blue": 111
+          },
+          "score": 0.018205013,
+          "pixelFraction": 0.009991497
+        },
+        {
+          "color": {
+            "red": 238,
+            "green": 232,
+            "blue": 206
+          },
+          "score": 0.014964337,
+          "pixelFraction": 0.008397109
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 193
+            },
+            {
+              "x": 193,
+              "y": 239
+            },
+            {
+              "y": 239
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.97999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "y": 27
+            },
+            {
+              "x": 193,
+              "y": 27
+            },
+            {
+              "x": 193,
+              "y": 224
+            },
+            {
+              "y": 224
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.90999997
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "y": 61
+            },
+            {
+              "x": 193,
+              "y": 61
+            },
+            {
+              "x": 193,
+              "y": 221
+            },
+            {
+              "y": 221
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.84999996
+      }
+    ]
+  },
+  "fullTextAnnotation": {
+    "pages": [
+      {
+        "property": {
+          "detectedLanguages": [
+            {
+              "languageCode": "pt",
+              "confidence": 1
+            }
+          ]
+        },
+        "width": 194,
+        "height": 259,
+        "blocks": [
+          {
+            "boundingBox": {
+              "vertices": [
+                {
+                  "x": 21,
+                  "y": 12
+                },
+                {
+                  "x": 172,
+                  "y": 12
+                },
+                {
+                  "x": 172,
+                  "y": 41
+                },
+                {
+                  "x": 21,
+                  "y": 41
+                }
+              ]
+            },
+            "paragraphs": [
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 21,
+                      "y": 12
+                    },
+                    {
+                      "x": 172,
+                      "y": 12
+                    },
+                    {
+                      "x": 172,
+                      "y": 27
+                    },
+                    {
+                      "x": 21,
+                      "y": 27
+                    }
+                  ]
+                },
+                "words": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "pt"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 21,
+                          "y": 12
+                        },
+                        {
+                          "x": 40,
+                          "y": 12
+                        },
+                        {
+                          "x": 40,
+                          "y": 27
+                        },
+                        {
+                          "x": 21,
+                          "y": 27
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 21,
+                              "y": 12
+                            },
+                            {
+                              "x": 25,
+                              "y": 12
+                            },
+                            {
+                              "x": 25,
+                              "y": 27
+                            },
+                            {
+                              "x": 21,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "S",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 27,
+                              "y": 12
+                            },
+                            {
+                              "x": 32,
+                              "y": 12
+                            },
+                            {
+                              "x": 32,
+                              "y": 27
+                            },
+                            {
+                              "x": 27,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "u",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "SPACE"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 34,
+                              "y": 12
+                            },
+                            {
+                              "x": 40,
+                              "y": 12
+                            },
+                            {
+                              "x": 40,
+                              "y": 27
+                            },
+                            {
+                              "x": 34,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "a",
+                        "confidence": 0.99
+                      }
+                    ],
+                    "confidence": 0.99
+                  },
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "pt"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 45,
+                          "y": 12
+                        },
+                        {
+                          "x": 66,
+                          "y": 12
+                        },
+                        {
+                          "x": 66,
+                          "y": 27
+                        },
+                        {
+                          "x": 45,
+                          "y": 27
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 45,
+                              "y": 12
+                            },
+                            {
+                              "x": 49,
+                              "y": 12
+                            },
+                            {
+                              "x": 49,
+                              "y": 27
+                            },
+                            {
+                              "x": 45,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "C",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 50,
+                              "y": 12
+                            },
+                            {
+                              "x": 56,
+                              "y": 12
+                            },
+                            {
+                              "x": 56,
+                              "y": 27
+                            },
+                            {
+                              "x": 50,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "N",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "SPACE"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 60,
+                              "y": 12
+                            },
+                            {
+                              "x": 66,
+                              "y": 12
+                            },
+                            {
+                              "x": 66,
+                              "y": 27
+                            },
+                            {
+                              "x": 60,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "H",
+                        "confidence": 0.99
+                      }
+                    ],
+                    "confidence": 0.99
+                  },
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "pt"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 71,
+                          "y": 12
+                        },
+                        {
+                          "x": 106,
+                          "y": 12
+                        },
+                        {
+                          "x": 106,
+                          "y": 27
+                        },
+                        {
+                          "x": 71,
+                          "y": 27
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 71,
+                              "y": 12
+                            },
+                            {
+                              "x": 77,
+                              "y": 12
+                            },
+                            {
+                              "x": 77,
+                              "y": 27
+                            },
+                            {
+                              "x": 71,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "D",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 80,
+                              "y": 12
+                            },
+                            {
+                              "x": 84,
+                              "y": 12
+                            },
+                            {
+                              "x": 84,
+                              "y": 27
+                            },
+                            {
+                              "x": 80,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "i",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 84,
+                              "y": 12
+                            },
+                            {
+                              "x": 87,
+                              "y": 12
+                            },
+                            {
+                              "x": 87,
+                              "y": 27
+                            },
+                            {
+                              "x": 84,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "g",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 90,
+                              "y": 12
+                            },
+                            {
+                              "x": 93,
+                              "y": 12
+                            },
+                            {
+                              "x": 93,
+                              "y": 27
+                            },
+                            {
+                              "x": 90,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "i",
+                        "confidence": 1
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 94,
+                              "y": 12
+                            },
+                            {
+                              "x": 96,
+                              "y": 12
+                            },
+                            {
+                              "x": 96,
+                              "y": 27
+                            },
+                            {
+                              "x": 94,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "t",
+                        "confidence": 1
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 98,
+                              "y": 12
+                            },
+                            {
+                              "x": 101,
+                              "y": 12
+                            },
+                            {
+                              "x": 101,
+                              "y": 27
+                            },
+                            {
+                              "x": 98,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "a",
+                        "confidence": 1
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "SPACE"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 103,
+                              "y": 12
+                            },
+                            {
+                              "x": 106,
+                              "y": 12
+                            },
+                            {
+                              "x": 106,
+                              "y": 27
+                            },
+                            {
+                              "x": 103,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "l",
+                        "confidence": 1
+                      }
+                    ],
+                    "confidence": 0.99
+                  },
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "pt"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 111,
+                          "y": 12
+                        },
+                        {
+                          "x": 126,
+                          "y": 12
+                        },
+                        {
+                          "x": 126,
+                          "y": 27
+                        },
+                        {
+                          "x": 111,
+                          "y": 27
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 111,
+                              "y": 12
+                            },
+                            {
+                              "x": 114,
+                              "y": 12
+                            },
+                            {
+                              "x": 114,
+                              "y": 27
+                            },
+                            {
+                              "x": 111,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "c",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 115,
+                              "y": 12
+                            },
+                            {
+                              "x": 119,
+                              "y": 12
+                            },
+                            {
+                              "x": 119,
+                              "y": 27
+                            },
+                            {
+                              "x": 115,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "o",
+                        "confidence": 1
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "SPACE"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 122,
+                              "y": 12
+                            },
+                            {
+                              "x": 126,
+                              "y": 12
+                            },
+                            {
+                              "x": 126,
+                              "y": 27
+                            },
+                            {
+                              "x": 122,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "m",
+                        "confidence": 1
+                      }
+                    ],
+                    "confidence": 0.99
+                  },
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "pt"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 138,
+                          "y": 12
+                        },
+                        {
+                          "x": 141,
+                          "y": 12
+                        },
+                        {
+                          "x": 141,
+                          "y": 27
+                        },
+                        {
+                          "x": 138,
+                          "y": 27
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "SPACE"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 138,
+                              "y": 12
+                            },
+                            {
+                              "x": 141,
+                              "y": 12
+                            },
+                            {
+                              "x": 141,
+                              "y": 27
+                            },
+                            {
+                              "x": 138,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "o",
+                        "confidence": 0.99
+                      }
+                    ],
+                    "confidence": 0.99
+                  },
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "pt"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 148,
+                          "y": 12
+                        },
+                        {
+                          "x": 172,
+                          "y": 12
+                        },
+                        {
+                          "x": 172,
+                          "y": 27
+                        },
+                        {
+                          "x": 148,
+                          "y": 27
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 148,
+                              "y": 12
+                            },
+                            {
+                              "x": 151,
+                              "y": 12
+                            },
+                            {
+                              "x": 151,
+                              "y": 27
+                            },
+                            {
+                              "x": 148,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "v",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 152,
+                              "y": 12
+                            },
+                            {
+                              "x": 156,
+                              "y": 12
+                            },
+                            {
+                              "x": 156,
+                              "y": 27
+                            },
+                            {
+                              "x": 152,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "a",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 158,
+                              "y": 12
+                            },
+                            {
+                              "x": 162,
+                              "y": 12
+                            },
+                            {
+                              "x": 162,
+                              "y": 27
+                            },
+                            {
+                              "x": 158,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "l",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 164,
+                              "y": 12
+                            },
+                            {
+                              "x": 167,
+                              "y": 12
+                            },
+                            {
+                              "x": 167,
+                              "y": 27
+                            },
+                            {
+                              "x": 164,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "o",
+                        "confidence": 1
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "LINE_BREAK"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 169,
+                              "y": 12
+                            },
+                            {
+                              "x": 172,
+                              "y": 12
+                            },
+                            {
+                              "x": 172,
+                              "y": 27
+                            },
+                            {
+                              "x": 169,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "text": "r",
+                        "confidence": 0.99
+                      }
+                    ],
+                    "confidence": 0.99
+                  }
+                ],
+                "confidence": 0.99
+              },
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 63,
+                      "y": 27
+                    },
+                    {
+                      "x": 128,
+                      "y": 27
+                    },
+                    {
+                      "x": 128,
+                      "y": 41
+                    },
+                    {
+                      "x": 63,
+                      "y": 41
+                    }
+                  ]
+                },
+                "words": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "pt"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 63,
+                          "y": 27
+                        },
+                        {
+                          "x": 76,
+                          "y": 27
+                        },
+                        {
+                          "x": 76,
+                          "y": 41
+                        },
+                        {
+                          "x": 63,
+                          "y": 41
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 63,
+                              "y": 27
+                            },
+                            {
+                              "x": 69,
+                              "y": 27
+                            },
+                            {
+                              "x": 69,
+                              "y": 41
+                            },
+                            {
+                              "x": 63,
+                              "y": 41
+                            }
+                          ]
+                        },
+                        "text": "d",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "SPACE"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 71,
+                              "y": 27
+                            },
+                            {
+                              "x": 76,
+                              "y": 27
+                            },
+                            {
+                              "x": 76,
+                              "y": 41
+                            },
+                            {
+                              "x": 71,
+                              "y": 41
+                            }
+                          ]
+                        },
+                        "text": "a",
+                        "confidence": 1
+                      }
+                    ],
+                    "confidence": 0.99
+                  },
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "pt"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 82,
+                          "y": 27
+                        },
+                        {
+                          "x": 128,
+                          "y": 27
+                        },
+                        {
+                          "x": 128,
+                          "y": 41
+                        },
+                        {
+                          "x": 82,
+                          "y": 41
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 82,
+                              "y": 27
+                            },
+                            {
+                              "x": 84,
+                              "y": 27
+                            },
+                            {
+                              "x": 84,
+                              "y": 41
+                            },
+                            {
+                              "x": 82,
+                              "y": 41
+                            }
+                          ]
+                        },
+                        "text": "i",
+                        "confidence": 1
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 83,
+                              "y": 27
+                            },
+                            {
+                              "x": 88,
+                              "y": 27
+                            },
+                            {
+                              "x": 88,
+                              "y": 41
+                            },
+                            {
+                              "x": 83,
+                              "y": 41
+                            }
+                          ]
+                        },
+                        "text": "m",
+                        "confidence": 1
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 95,
+                              "y": 27
+                            },
+                            {
+                              "x": 101,
+                              "y": 27
+                            },
+                            {
+                              "x": 101,
+                              "y": 41
+                            },
+                            {
+                              "x": 95,
+                              "y": 41
+                            }
+                          ]
+                        },
+                        "text": "p",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 102,
+                              "y": 27
+                            },
+                            {
+                              "x": 106,
+                              "y": 27
+                            },
+                            {
+                              "x": 106,
+                              "y": 41
+                            },
+                            {
+                              "x": 102,
+                              "y": 41
+                            }
+                          ]
+                        },
+                        "text": "r",
+                        "confidence": 1
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 108,
+                              "y": 27
+                            },
+                            {
+                              "x": 112,
+                              "y": 27
+                            },
+                            {
+                              "x": 112,
+                              "y": 41
+                            },
+                            {
+                              "x": 108,
+                              "y": 41
+                            }
+                          ]
+                        },
+                        "text": "e",
+                        "confidence": 1
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 114,
+                              "y": 27
+                            },
+                            {
+                              "x": 118,
+                              "y": 27
+                            },
+                            {
+                              "x": 118,
+                              "y": 41
+                            },
+                            {
+                              "x": 114,
+                              "y": 41
+                            }
+                          ]
+                        },
+                        "text": "s",
+                        "confidence": 1
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 120,
+                              "y": 27
+                            },
+                            {
+                              "x": 123,
+                              "y": 27
+                            },
+                            {
+                              "x": 123,
+                              "y": 41
+                            },
+                            {
+                              "x": 120,
+                              "y": 41
+                            }
+                          ]
+                        },
+                        "text": "s",
+                        "confidence": 0.97
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "LINE_BREAK"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 125,
+                              "y": 27
+                            },
+                            {
+                              "x": 128,
+                              "y": 27
+                            },
+                            {
+                              "x": 128,
+                              "y": 41
+                            },
+                            {
+                              "x": 125,
+                              "y": 41
+                            }
+                          ]
+                        },
+                        "text": "a",
+                        "confidence": 0.99
+                      }
+                    ],
+                    "confidence": 0.99
+                  }
+                ],
+                "confidence": 0.99
+              }
+            ],
+            "blockType": "TEXT",
+            "confidence": 0.99
+          }
+        ]
+      }
+    ],
+    "text": "Sua CNH Digital com o valor\nda impressa\n"
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/01187f7t",
+        "score": 0.7308,
+        "description": "Carteira Nacional de Habilitação"
+      },
+      {
+        "entityId": "/g/121_61c2",
+        "score": 0.7094,
+        "description": "Departamento Estadual de Trânsito"
+      },
+      {
+        "entityId": "/m/0btp2",
+        "score": 0.6495,
+        "description": "Traffic"
+      },
+      {
+        "entityId": "/t/25qjgvcmbrwbb",
+        "score": 0.5858
+      },
+      {
+        "entityId": "/g/120tryhv",
+        "score": 0.5558,
+        "description": "Departamento Nacional de Trânsito"
+      },
+      {
+        "entityId": "/m/0h94y36",
+        "score": 0.4391,
+        "description": "Mobile app"
+      },
+      {
+        "entityId": "/m/02wxtgw",
+        "score": 0.4257,
+        "description": "Android"
+      },
+      {
+        "entityId": "/m/07yv9",
+        "score": 0.4163,
+        "description": "Vehicle"
+      },
+      {
+        "entityId": "/m/027lnzs",
+        "score": 0.3977,
+        "description": "iPhone"
+      },
+      {
+        "entityId": "/m/0k8z",
+        "score": 0.3913,
+        "description": "Apple"
+      },
+      {
+        "entityId": "/m/03wc248",
+        "score": 0.3657,
+        "description": "App Store"
+      },
+      {
+        "entityId": "/m/03qn6d7",
+        "score": 0.3478,
+        "description": "Vehicle registration certificate"
+      },
+      {
+        "entityId": "/t/24g_1m01jkvz7",
+        "score": 0.3461
+      },
+      {
+        "entityId": "/m/04q7j9d",
+        "score": 0.3427,
+        "description": "Android application package"
+      },
+      {
+        "entityId": "/m/019g58",
+        "score": 0.3132,
+        "description": "iTunes"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/32/18/e0/3218e016-07a3-64a3-1e9c-c8b83a19e0d4/pr_source.png/643x0w.jpg"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ac/96/a0/ac96a00c-a610-a639-c084-ec7fd1a2005f/pr_source.png/1242x2208bb.jpg"
+      },
+      {
+        "url": "https://i1.wp.com/revistadeanuncios.com.br/wp-content/uploads/2017/12/IMG_20171118_195822.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=281333589105194"
+      },
+      {
+        "url": "http://m1newstv.com/wp-content/uploads/2018/09/B4B9A45B-3DC6-4628-87BE-428BD4368113.jpeg"
+      },
+      {
+        "url": "https://img.ibxk.com.br/2017/11/programas/27323732217300.jpg"
+      },
+      {
+        "url": "http://clubedetran.com.br/wp-content/uploads/2017/10/CNH-Digital-ser%C3%A1-liberada-em-Goi%C3%A1s-at%C3%A9-o-final-do-ano-APP.jpg"
+      },
+      {
+        "url": "http://revistaaquiali.com.br/uploads/noticias/29046/29046_cnh-digital-celular-documento-18110831530000-1521900240.jpg"
+      },
+      {
+        "url": "https://www.tudoemtecnologia.com/wp-content/uploads/2017/11/cnh-digital-celular-documento-18110831530000.jpg"
+      },
+      {
+        "url": "https://i2.wp.com/www.androidbr.com.br/wp-content/uploads/2017/11/cnh-digital.jpg?fit=660%2C564&amp;ssl=1"
+      },
+      {
+        "url": "https://img.ibxk.com.br/2017/11/programas/273237322172924.jpg"
+      },
+      {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f1/59/cf/f159cf0b-b3c5-fb13-9775-006e6c31a160/source/392x696bb.jpg"
+      },
+      {
+        "url": "https://i2.wp.com/www.androidbr.com.br/wp-content/uploads/2017/11/cnh-digital.jpg?resize=600%2C400&amp;ssl=1"
+      },
+      {
+        "url": "https://cnhdigital.net.br/wp-content/uploads/cadastro-cnh-digital-detran-ma-e1527780598838.jpg"
+      },
+      {
+        "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ac/96/a0/ac96a00c-a610-a639-c084-ec7fd1a2005f/pr_source.png/300x0w.png"
+      },
+      {
+        "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ac/96/a0/ac96a00c-a610-a639-c084-ec7fd1a2005f/pr_source.png/300x0w.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/www.androidfinal.com/wp-content/uploads/2017/11/CNH-Digital-4.png"
+      },
+      {
+        "url": "http://portal.optas.org/wp-content/uploads/2017/10/cnhdigital-3-460x260_c.jpg"
+      },
+      {
+        "url": "https://image.winudf.com/v2/image/YnIuZ292LnNlcnByby5jbmhlX3NjcmVlbl8xXzE1MzYxMDY1NjBfMDk1/screen-1.jpg?h=355&amp;fakeurl=1&amp;type=.jpg"
+      },
+      {
+        "url": "https://www.infocommti.com.br/wp-content/uploads/2018/01/cnh-digital-app-250x250.jpg"
+      },
+      {
+        "url": "https://img.ibxk.com.br/2017/11/programas/27323732217300-t200x150.jpg"
+      },
+      {
+        "url": "https://blog.autoescolamodelo.com/wp-content/uploads/2018/05/cnh-digital-800x342.png"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "http://cea.redphantom.info/first/o-que-colocar-em-uf-da-identidade.pl",
+        "pageTitle": "best O Que Colocar Em Uf Da Identidade image collection",
+        "partialMatchingImages": [
+          {
+            "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ac/96/a0/ac96a00c-a610-a639-c084-ec7fd1a2005f/pr_source.png/1242x2208bb.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://itunes.apple.com/fr/app/cnh-digital/id1275057217?l=en&amp;mt=8",
+        "pageTitle": "  Carteira Digital de Trânsito on the App Store - iTunes - Apple",
+        "partialMatchingImages": [
+          {
+            "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ac/96/a0/ac96a00c-a610-a639-c084-ec7fd1a2005f/pr_source.png/300x0w.jpg"
+          },
+          {
+            "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ac/96/a0/ac96a00c-a610-a639-c084-ec7fd1a2005f/pr_source.png/300x0w.png"
+          }
+        ]
+      },
+      {
+        "url": "https://itunes.apple.com/sr/app/cnh-digital/id1275057217?l=nl&amp;mt=8",
+        "pageTitle": "  CNH Digital in de App Store - iTunes - Apple",
+        "fullMatchingImages": [
+          {
+            "url": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/32/18/e0/3218e016-07a3-64a3-1e9c-c8b83a19e0d4/pr_source.png/643x0w.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://macmagazine.com.br/2017/11/17/cnh-digital-chega-ao-df-e-ja-pode-ser-usada-por-mais-200-mil-motoristas-app-esta-disponivel/",
+        "pageTitle": "CNH Digital chega ao DF e já pode ser usada por mais 200 mil ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ac/96/a0/ac96a00c-a610-a639-c084-ec7fd1a2005f/pr_source.png/1242x2208bb.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://itunes.apple.com/br/app/cnh-digital/id1275057217?platform=iphone&amp;preserveScrollPosition=true",
+        "pageTitle": "  Carteira Digital de Trânsito na App Store - iTunes - Apple",
+        "partialMatchingImages": [
+          {
+            "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ac/96/a0/ac96a00c-a610-a639-c084-ec7fd1a2005f/pr_source.png/300x0w.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://itunes.apple.com/us/app/carteira-digital-de-tr%C3%A2nsito/id1275057217?mt=8",
+        "pageTitle": "  Carteira Digital de Trânsito on the App Store - iTunes - Apple",
+        "partialMatchingImages": [
+          {
+            "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ac/96/a0/ac96a00c-a610-a639-c084-ec7fd1a2005f/pr_source.png/300x0w.jpg"
+          },
+          {
+            "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ac/96/a0/ac96a00c-a610-a639-c084-ec7fd1a2005f/pr_source.png/300x0w.png"
+          }
+        ]
+      },
+      {
+        "url": "http://portal.optas.org/author/agenciamb2/page/10/",
+        "pageTitle": "agenciamb2 – Página: 10 – OPTAS",
+        "partialMatchingImages": [
+          {
+            "url": "http://portal.optas.org/wp-content/uploads/2017/10/cnhdigital-3-460x260_c.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.infocommti.com.br/tag/carteira-digital/",
+        "pageTitle": "Arquivos carteira digital - Infocomm TI",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.infocommti.com.br/wp-content/uploads/2018/01/cnh-digital-app-250x250.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://blog.autoescolamodelo.com/cnh-digital-chegou-a-hora/",
+        "pageTitle": "Detran.SP disponibiliza CNH digital e envio grátis da versão impressa",
+        "partialMatchingImages": [
+          {
+            "url": "https://blog.autoescolamodelo.com/wp-content/uploads/2018/05/cnh-digital-800x342.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.infocommti.com.br/blog/",
+        "pageTitle": "Notícias sobre Tecnologia da Informação: Confira tudo sobre ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.infocommti.com.br/wp-content/uploads/2018/01/cnh-digital-app-250x250.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.infocommti.com.br/category/tecnologia/",
+        "pageTitle": "Arquivos Tecnologia - Infocomm TI",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.infocommti.com.br/wp-content/uploads/2018/01/cnh-digital-app-250x250.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.infocommti.com.br/tag/carteira-de-motorista/",
+        "pageTitle": "Arquivos carteira de motorista - Infocomm TI",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.infocommti.com.br/wp-content/uploads/2018/01/cnh-digital-app-250x250.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.baixaki.com.br/iphone/download/cnh-digital.htm",
+        "pageTitle": "CNH Digital Download - Baixaki",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.ibxk.com.br/2017/11/programas/27323732217300-t200x150.jpg"
+          },
+          {
+            "url": "https://img.ibxk.com.br/2017/11/programas/273237322172924.jpg"
+          },
+          {
+            "url": "https://img.ibxk.com.br/2017/11/programas/27323732217300.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tudoemtecnologia.com/atrasou-cnh-digital-chegara-em-todo-o-brasil-em-julho/",
+        "pageTitle": "Atrasou: CNH digital chegará em todo o Brasil em julho – Tudo em ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.tudoemtecnologia.com/wp-content/uploads/2017/11/cnh-digital-celular-documento-18110831530000.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tudoemtecnologia.com/app-da-cnh-digital-ja-esta-disponivel-para-android-e-ios-saiba-como-usar/",
+        "pageTitle": "App da CNH Digital já está disponível para Android e iOS; saiba ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.tudoemtecnologia.com/wp-content/uploads/2017/11/cnh-digital-celular-documento-18110831530000.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://clubedetran.com.br/cnh-digital-sera-liberada-em-goias-ate-o-final-do-ano/",
+        "pageTitle": "CNH Digital será liberada em Goiás até o final do ano | Clube ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://clubedetran.com.br/wp-content/uploads/2017/10/CNH-Digital-ser%C3%A1-liberada-em-Goi%C3%A1s-at%C3%A9-o-final-do-ano-APP.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://m1newstv.com/crlve-fim-do-crlv-em-papel/",
+        "pageTitle": "CRLVe - Será o fim do CRLV em papel ? Novo documento do ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://m1newstv.com/wp-content/uploads/2018/09/B4B9A45B-3DC6-4628-87BE-428BD4368113.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "https://cnhdigital.net.br/",
+        "pageTitle": "CNH Digital → Cadastro [BAIXAR]",
+        "partialMatchingImages": [
+          {
+            "url": "https://cnhdigital.net.br/wp-content/uploads/cadastro-cnh-digital-detran-ma-e1527780598838.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.androidfans.com.br/apps/cnh-digital-ja-esta-disponivel-oficialmente-para-android-e-ios/2220112017",
+        "pageTitle": "CNH digital já está disponível oficialmente para Android e iOS ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i1.wp.com/androidfans.com.br/wp-content/uploads/2017/11/cnh-digital.jpg?resize=660%2C564"
+          }
+        ]
+      },
+      {
+        "url": "http://revistaaquiali.com.br/noticias/concurso/etec-de-taquaritinga-recebe-inscricoes-para-processo-seletivo",
+        "pageTitle": "Etec de Taquaritinga recebe inscrições para processo seletivo",
+        "partialMatchingImages": [
+          {
+            "url": "http://revistaaquiali.com.br/uploads/noticias/29046/29046_cnh-digital-celular-documento-18110831530000-1521900240.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://revistaaquiali.com.br/noticias/orientacao/motoristas-do-estado-de-sp-podem-emitir-a-cnh-digital",
+        "pageTitle": "Motoristas do Estado de SP podem emitir a CNH Digital",
+        "partialMatchingImages": [
+          {
+            "url": "http://revistaaquiali.com.br/uploads/noticias/29046/29046_cnh-digital-celular-documento-18110831530000-1521900240.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.facebook.com/ihelprecife/",
+        "pageTitle": "IHelp Recife - Home | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=281333589105194"
+          }
+        ]
+      },
+      {
+        "url": "http://revistadeanuncios.com.br/2017/12/08/aplicativo-de-cnh-virtual-ja-esta-valendo-em-alguns-lugares/",
+        "pageTitle": "Aplicativo de CNH virtual já está valendo em alguns lugares",
+        "partialMatchingImages": [
+          {
+            "url": "https://i1.wp.com/revistadeanuncios.com.br/wp-content/uploads/2017/12/IMG_20171118_195822.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://pt-br.facebook.com/ihelprecife/",
+        "pageTitle": "IHelp Recife - Página inicial | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=281333589105194"
+          }
+        ]
+      },
+      {
+        "url": "https://www.wfstecnologia.com.br/2017/11/19/app-da-cnh-digital-ja-esta-disponivel-para-android-e-ios-saiba-como-usar/",
+        "pageTitle": "App da CNH Digital já está disponível para Android e iOS; saiba ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.tudoemtecnologia.com/wp-content/uploads/2017/11/cnh-digital-celular-documento-18110831530000.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://apkpure.com/carteira-digital-de-tr%C3%A2nsito/br.gov.serpro.cnhe",
+        "pageTitle": "Carteira Digital de Trânsito for Android - APK Download",
+        "partialMatchingImages": [
+          {
+            "url": "https://image.winudf.com/v2/image/YnIuZ292LnNlcnByby5jbmhlX3NjcmVlbl8xXzE1MzYxMDY1NjBfMDk1/screen-1.jpg?h=355&amp;fakeurl=1&amp;type=.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://cnhdigital.net.br/cnh-digital-detran-ma-cadastro",
+        "pageTitle": "CNH Digital DETRAN MA - Cadastro | CNH Digital",
+        "partialMatchingImages": [
+          {
+            "url": "https://cnhdigital.net.br/wp-content/uploads/cadastro-cnh-digital-detran-ma-e1527780598838.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://sv-se.facebook.com/ihelprecife/",
+        "pageTitle": "IHelp Recife - Startsida | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=281333589105194"
+          }
+        ]
+      },
+      {
+        "url": "https://www.androidfans.com.br/nuvem/cnh-digital",
+        "pageTitle": "Tag: cnh digital | | Android Fans",
+        "partialMatchingImages": [
+          {
+            "url": "https://i2.wp.com/www.androidfans.com.br/wp-content/uploads/2017/11/cnh-digital.jpg?fit=660%2C564&amp;ssl=1"
+          }
+        ]
+      },
+      {
+        "url": "https://apkpure.com/br/carteira-digital-de-tr%C3%A2nsito/br.gov.serpro.cnhe",
+        "pageTitle": "Carteira Digital de Trânsito para Android - APK Baixar - APKPure.com",
+        "partialMatchingImages": [
+          {
+            "url": "https://image.winudf.com/v2/image/YnIuZ292LnNlcnByby5jbmhlX3NjcmVlbl8xXzE1MzYxMDY1NjBfMDk1/screen-1.jpg?h=355&amp;fakeurl=1&amp;type=.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://jogosparaiphone.com.br/app/1275057217/carteira-digital-de-tr%C3%A2nsito",
+        "pageTitle": "Carteira Digital de Trânsito - grátis - Jogos e Apps para iPhone e ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f1/59/cf/f159cf0b-b3c5-fb13-9775-006e6c31a160/source/392x696bb.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.androidbr.com.br/categoria/apps",
+        "pageTitle": "Arquivos Apps » Android Br",
+        "partialMatchingImages": [
+          {
+            "url": "https://i2.wp.com/www.androidbr.com.br/wp-content/uploads/2017/11/cnh-digital.jpg?fit=660%2C564&amp;ssl=1"
+          },
+          {
+            "url": "https://i2.wp.com/www.androidbr.com.br/wp-content/uploads/2017/11/cnh-digital.jpg?resize=600%2C400&amp;ssl=1"
+          }
+        ]
+      },
+      {
+        "url": "https://apkpure.com/es/carteira-digital-de-tr%C3%A2nsito/br.gov.serpro.cnhe",
+        "pageTitle": "Carteira Digital de Trânsito for Android - APK Download",
+        "partialMatchingImages": [
+          {
+            "url": "https://image.winudf.com/v2/image/YnIuZ292LnNlcnByby5jbmhlX3NjcmVlbl8xXzE1MzYxMDY1NjBfMDk1/screen-1.jpg?h=355&amp;fakeurl=1&amp;type=.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://considi.festa-de-casamento.info/br/como-saber-o-numero-da-cnh-pelo-cpf-df.aspx",
+        "pageTitle": "Tag; Como Saber O Numero Da Cnh Pelo Cpf Df - festa-de-casamento",
+        "partialMatchingImages": [
+          {
+            "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ac/96/a0/ac96a00c-a610-a639-c084-ec7fd1a2005f/pr_source.png/1242x2208bb.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://apkpure.com/ar/carteira-digital-de-tr%C3%A2nsito/br.gov.serpro.cnhe",
+        "pageTitle": "Carteira Digital de Trânsito for Android - APK Download",
+        "partialMatchingImages": [
+          {
+            "url": "https://image.winudf.com/v2/image/YnIuZ292LnNlcnByby5jbmhlX3NjcmVlbl8xXzE1MzYxMDY1NjBfMDk1/screen-1.jpg?h=355&amp;fakeurl=1&amp;type=.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://iapp-s.com/ios/brazil/app/1275057217/cnh-digital",
+        "pageTitle": "Carteira Digital de Trânsito - App - Download App Store | Brazil",
+        "partialMatchingImages": [
+          {
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f1/59/cf/f159cf0b-b3c5-fb13-9775-006e6c31a160/source/392x696bb.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://considi.festa-de-casamento.info/br/consultar-numero-da-cnh-pelo-cpf-df.aspx",
+        "pageTitle": "Tag; Consultar Numero Da Cnh Pelo Cpf Df - festa de casamento",
+        "partialMatchingImages": [
+          {
+            "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ac/96/a0/ac96a00c-a610-a639-c084-ec7fd1a2005f/pr_source.png/1242x2208bb.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://baixarapk.gratis/app/1275057217/cnh-digital",
+        "pageTitle": "Carteira Digital de Trânsito APK para Android - Baixar Grátis ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f1/59/cf/f159cf0b-b3c5-fb13-9775-006e6c31a160/source/392x696bb.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://baixarapk.gratis/app/1275057217/carteira-digital-de-tr-nsito",
+        "pageTitle": "Carteira Digital de Trânsito APK para Android - Baixar Grátis ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f1/59/cf/f159cf0b-b3c5-fb13-9775-006e6c31a160/source/392x696bb.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.androidfinal.com/cnh-digital-e-liberada-para-android/",
+        "pageTitle": "CNH Digital é liberada para Android; veja como usar - ANDROID ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/www.androidfinal.com/wp-content/uploads/2017/11/CNH-Digital-4.png"
+          }
+        ]
+      },
+      {
+        "url": "https://baixarapk.gratis/app/1275057217/carteira-digital-de-tr%C3%A2nsito",
+        "pageTitle": "Carteira Digital de Trânsito APK para Android - Baixar Grátis ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f1/59/cf/f159cf0b-b3c5-fb13-9775-006e6c31a160/source/392x696bb.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://senonas.searchtitans.xyz/senonas/o-que-quer-dizer-uf-na-carteira-de-identidade.shtml",
+        "pageTitle": "best O Que Quer Dizer Uf Na Carteira De Identidade image collection",
+        "fullMatchingImages": [
+          {
+            "url": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/32/18/e0/3218e016-07a3-64a3-1e9c-c8b83a19e0d4/pr_source.png/643x0w.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://senonas.searchtitans.xyz/senonas/o-que-colocar-em-uf-da-identidade.shtml",
+        "pageTitle": "best O Que Colocar Em Uf Da Identidade image collection",
+        "partialMatchingImages": [
+          {
+            "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ac/96/a0/ac96a00c-a610-a639-c084-ec7fd1a2005f/pr_source.png/1242x2208bb.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://shop.erickson.it/front4/image/Products/DIGITAL_978-88-590-0749-4_EB47_La-classe-capovolta/CopertinaWeb/EBOOK_La-classe-capovolta_590-0749-4_z.jpg"
+      },
+      {
+        "url": "https://shop.erickson.it/front4/image/Products/DIGITAL_978-88-590-1253-5_EB130_Il-cervello-a-scuola/CopertinaWeb/Il-cervello-a-scuola_590-1253-5.jpg"
+      },
+      {
+        "url": "https://www.booktopia.com.au/http_coversbooktopiacomau/600/9781905367511/the-concise-book-of-trigger-points.jpg"
+      },
+      {
+        "url": "http://delegatecurtanderson.com/wp-content/uploads/2018/09/building-and-designing-transistor-radios-amazing-home-book-summary-build-your-own-transistor-radios-a-of-building-and-designing-transistor-radios.jpg"
+      },
+      {
+        "url": "https://myfirstdealplaybook.com/hosted/images/21/8b0ec06d4211e7afa3392874a1f17c/HUMAYUN-BOOK-2.png"
+      },
+      {
+        "url": "https://dl.airtable.com/9f93RQSmRZavH8cZY62P_full_B6SKUvFQTXiPGDju48Ij_full_25683240.jpg"
+      },
+      {
+        "url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1457731840i/18396677._SX540_.jpg"
+      },
+      {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/47/23/4e4723fd-a620-4d81-d03e-23088d9860ec/pr_source.png/300x0w.jpg"
+      },
+      {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/91kZIEb%2BV2L._UX300_PJku-sticker-v7,TopRight,0,-50_OU02__BG0,0,0,0_FMpng_AC_UL320_SR240,320_.jpg"
+      },
+      {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41HsqjNEy7L._SX380_BO1,204,203,200_.jpg"
+      },
+      {
+        "url": "https://kidlitexchangecom.files.wordpress.com/2018/04/img_5905.jpg?w=284&amp;h=286"
+      },
+      {
+        "url": "https://s1-ssl.dmcdn.net/Wk_sp/x360-_P6.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "communication"
+      }
+    ]
+  }
+}
